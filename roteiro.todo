@@ -1,7 +1,7 @@
 Para fazer com que as pizzas da home apareçam de forma dinâmica:
-    ☐ No PizzasController você deve importar as info das pizzas (Pizzas.json);
-    ☐ Enviar as informações das pizzas pizzas para a view index
-    ☐ Adequar a view index.ejs para exibir as informações passadas pelo controller
+    ✔ No PizzasController você deve importar as info das pizzas (Pizzas.json); @done(21-07-28 20:24)
+    ✔ Enviar as informações das pizzas pizzas para a view index @done(21-07-28 20:23)
+    ✔ Adequar a view index.ejs para exibir as informações passadas pelo controller @done(21-07-28 20:47)
 
 Para fazer o link "Ver Mais" funcionar:
     ☐ Fazer com que o link "ver mais" aponte para a rota /pizzas/_id_da_pizza_
